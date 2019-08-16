@@ -2,6 +2,10 @@
 
 No diretório do projeto é possível executar:
 
+### `npm install`
+
+Instala todas as dependências utilizadas no projeto.
+
 ### `npm start`
 
 Inicia o app em modo de desenvolvimento.<br>
